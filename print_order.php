@@ -5,10 +5,10 @@
 * @package PrintOrder
 *
 * Plugin Name: Thermal Printer
-* Plugin URI: https://github.com/NesarAhmedRazon/nesar_widgets
+* Plugin URI: https://github.com/NesarAhmedRazon/print_order
 * Description: This plugin will add Order printing button for Bluetooth Print App.
 * Author: Nesar Ahmed
-* Version: 0.0.1
+* Version: 0.0.2
 * Author URI: https://github.com/NesarAhmedRazon/
 * Text Domain: thermal-printer
 */
